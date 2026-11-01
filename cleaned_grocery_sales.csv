@@ -1,0 +1,361 @@
+Date,Product,Category,Quantity,Unit_Price,Sales,Region,Channel,Month
+2025-01-01,Sugar,Staples,4.0,48,187.71,North,Online,1
+2025-01-02,Eggs,Dairy,1.0,8,8.23,South,Online,1
+2025-01-03,Apples,Fruits,1.0,120,119.0,West,Online,1
+2025-01-04,Sugar,Staples,2.0,48,96.88,East,In-store,1
+2025-01-05,Bread,Bakery,7.0,40,304.72,East,Online,1
+2025-01-06,Tea,Beverages,7.0,180,1231.3,Unknown,Online,1
+2025-01-07,Apples,Fruits,6.0,120,786.41,Unknown,In-store,1
+2025-01-08,Apples,Fruits,2.0,120,259.46,Unknown,Online,1
+2025-01-09,Sugar,Staples,3.0,48,135.24,South,In-store,1
+2025-01-10,Milk,Dairy,7.0,30,191.91,West,In-store,1
+2025-01-11,Bread,Bakery,5.0,40,147.22,West,In-store,1
+2025-01-12,Sugar,Staples,5.0,48,347.0,North,Online,1
+2025-01-13,Bread,Bakery,5.0,40,73.51,West,Online,1
+2025-01-14,Bread,Bakery,8.0,40,331.71,East,Online,1
+2025-01-15,Tea,Beverages,1.0,180,164.56,North,In-store,1
+2025-01-16,Apples,Fruits,4.0,120,222.45,North,Online,1
+2025-01-17,Eggs,Dairy,4.0,8,222.45,South,In-store,1
+2025-01-18,Tea,Beverages,1.0,180,222.45,West,Online,1
+2025-01-19,Tea,Beverages,2.0,180,382.64,South,In-store,1
+2025-01-20,Bread,Bakery,1.0,40,38.25,East,Online,1
+2025-01-21,Cooking Oil,Staples,8.0,150,1108.36,North,Online,1
+2025-01-22,Apples,Fruits,6.0,120,748.33,North,Online,1
+2025-01-23,Milk,Dairy,4.0,30,123.09,North,In-store,1
+2025-01-24,Tea,Beverages,5.0,180,967.94,East,In-store,1
+2025-01-25,Eggs,Dairy,5.0,8,41.88,East,Online,1
+2025-01-26,Cooking Oil,Staples,8.0,150,1272.84,South,Online,1
+2025-01-27,Cooking Oil,Staples,3.0,150,430.38,South,In-store,1
+2025-01-28,Milk,Dairy,7.0,30,196.45,South,In-store,1
+2025-01-29,Tea,Beverages,1.0,180,189.02,West,In-store,1
+2025-01-30,Eggs,Dairy,1.0,8,8.49,North,Online,1
+2025-01-31,Apples,Fruits,3.0,120,395.32,North,In-store,1
+2025-02-01,Rice,Staples,3.0,65,191.59,South,Online,2
+2025-02-02,Eggs,Dairy,8.0,8,62.36,North,In-store,2
+2025-02-03,Milk,Dairy,8.0,30,253.27,South,Online,2
+2025-02-04,Cooking Oil,Staples,3.0,150,435.67,West,In-store,2
+2025-02-05,Apples,Fruits,4.0,120,521.35,West,In-store,2
+2025-02-06,Eggs,Dairy,8.0,8,68.59,East,In-store,2
+2025-02-07,Rice,Staples,6.0,65,384.46,West,In-store,2
+2025-02-08,Rice,Staples,8.0,65,546.09,South,In-store,2
+2025-02-09,Bread,Bakery,1.0,40,42.04,West,Online,2
+2025-02-10,Bread,Bakery,8.0,40,294.6,East,In-store,2
+2025-02-11,Sugar,Staples,4.0,48,207.46,North,In-store,2
+2025-02-12,Milk,Dairy,3.0,30,90.09,South,In-store,2
+2025-02-13,Tea,Beverages,1.0,180,191.75,North,Online,2
+2025-02-14,Eggs,Dairy,8.0,8,61.7,East,In-store,2
+2025-02-15,Eggs,Dairy,4.0,8,34.53,East,Online,2
+2025-02-16,Tea,Beverages,6.0,180,1056.07,East,In-store,2
+2025-02-17,Sugar,Staples,8.0,48,346.43,North,In-store,2
+2025-02-18,Cooking Oil,Staples,4.0,150,648.65,North,Online,2
+2025-02-19,Cooking Oil,Staples,6.0,150,826.43,North,In-store,2
+2025-02-20,Sugar,Staples,3.0,48,138.8,North,Online,2
+2025-02-21,Cooking Oil,Staples,8.0,150,1308.01,East,Online,2
+2025-02-22,Bread,Bakery,6.0,40,261.63,East,In-store,2
+2025-02-23,Eggs,Dairy,1.0,8,8.12,South,Online,2
+2025-02-24,Sugar,Staples,3.0,48,147.8,South,In-store,2
+2025-02-25,Eggs,Dairy,1.0,8,7.92,North,In-store,2
+2025-02-26,Tea,Beverages,5.0,180,862.78,West,Online,2
+2025-02-27,Rice,Staples,2.0,65,125.55,West,Online,2
+2025-02-28,Bread,Bakery,8.0,40,331.04,East,Online,2
+2025-03-01,Apples,Fruits,6.0,120,756.34,East,Online,3
+2025-03-02,Bread,Bakery,2.0,40,84.67,East,In-store,3
+2025-03-03,Sugar,Staples,2.0,48,101.56,South,In-store,3
+2025-03-04,Apples,Fruits,6.0,120,661.13,South,Online,3
+2025-03-05,Rice,Staples,3.0,65,194.78,East,In-store,3
+2025-03-06,Sugar,Staples,8.0,48,350.02,East,In-store,3
+2025-03-07,Milk,Dairy,5.0,30,151.49,East,In-store,3
+2025-03-08,Eggs,Dairy,1.0,8,7.91,West,In-store,3
+2025-03-09,Rice,Staples,4.0,65,280.16,South,Online,3
+2025-03-10,Eggs,Dairy,1.0,8,7.76,West,Online,3
+2025-03-11,Cooking Oil,Staples,4.0,150,554.05,West,In-store,3
+2025-03-12,Milk,Dairy,1.0,30,27.86,East,Online,3
+2025-03-13,Milk,Dairy,6.0,30,189.41,East,Online,3
+2025-03-14,Rice,Staples,5.0,65,332.68,North,Online,3
+2025-03-15,Milk,Dairy,8.0,30,220.85,North,In-store,3
+2025-03-16,Apples,Fruits,4.0,120,440.07,West,In-store,3
+2025-03-17,Milk,Dairy,8.0,30,249.65,South,In-store,3
+2025-03-18,Eggs,Dairy,8.0,8,58.53,East,Online,3
+2025-03-19,Eggs,Dairy,8.0,8,68.12,East,In-store,3
+2025-03-20,Sugar,Staples,7.0,48,349.86,West,In-store,3
+2025-03-21,Eggs,Dairy,3.0,8,21.99,North,Online,3
+2025-03-22,Sugar,Staples,1.0,48,44.01,South,In-store,3
+2025-03-23,Eggs,Dairy,8.0,8,70.23,North,In-store,3
+2025-03-24,Apples,Fruits,1.0,120,116.98,North,Online,3
+2025-03-25,Tea,Beverages,8.0,180,1402.74,North,Online,3
+2025-03-26,Sugar,Staples,4.0,48,204.01,North,Online,3
+2025-03-27,Bread,Bakery,3.0,40,130.73,East,In-store,3
+2025-03-28,Cooking Oil,Staples,3.0,150,493.74,East,In-store,3
+2025-03-29,Rice,Staples,6.0,65,409.76,North,In-store,3
+2025-03-30,Eggs,Dairy,7.0,8,54.61,South,Online,3
+2025-03-31,Milk,Dairy,6.0,30,165.01,West,Online,3
+2025-04-01,Tea,Beverages,6.0,180,1139.86,South,In-store,4
+2025-04-02,Eggs,Dairy,6.0,8,48.56,South,In-store,4
+2025-04-03,Milk,Dairy,6.0,30,177.27,South,Online,4
+2025-04-04,Cooking Oil,Staples,6.0,150,973.14,North,Online,4
+2025-04-05,Cooking Oil,Staples,5.0,150,691.68,East,Online,4
+2025-04-06,Cooking Oil,Staples,3.0,150,449.34,South,Online,4
+2025-04-07,Milk,Dairy,6.0,30,162.41,North,In-store,4
+2025-04-08,Eggs,Dairy,8.0,8,63.6,South,Online,4
+2025-04-09,Cooking Oil,Staples,3.0,150,410.07,South,In-store,4
+2025-04-10,Apples,Fruits,3.0,120,332.55,North,In-store,4
+2025-04-11,Sugar,Staples,2.0,48,88.66,East,In-store,4
+2025-04-12,Milk,Dairy,5.0,30,154.48,East,Online,4
+2025-04-13,Milk,Dairy,6.0,30,188.86,West,Online,4
+2025-04-14,Eggs,Dairy,1.0,8,8.13,North,Online,4
+2025-04-15,Milk,Dairy,4.0,30,131.09,West,Online,4
+2025-04-16,Milk,Dairy,7.0,30,204.74,West,In-store,4
+2025-04-17,Cooking Oil,Staples,8.0,150,1148.57,West,Online,4
+2025-04-18,Eggs,Dairy,1.0,8,8.59,East,Online,4
+2025-04-19,Cooking Oil,Staples,5.0,150,708.54,North,In-store,4
+2025-04-20,Sugar,Staples,4.0,48,209.79,West,Online,4
+2025-04-21,Tea,Beverages,5.0,180,812.19,North,In-store,4
+2025-04-22,Sugar,Staples,8.0,48,420.09,North,In-store,4
+2025-04-23,Tea,Beverages,3.0,180,490.66,East,In-store,4
+2025-04-24,Cooking Oil,Staples,4.0,150,646.94,West,In-store,4
+2025-04-25,Sugar,Staples,3.0,48,144.8,West,In-store,4
+2025-04-26,Eggs,Dairy,8.0,8,70.31,North,In-store,4
+2025-04-27,Rice,Staples,1.0,65,59.46,South,In-store,4
+2025-04-28,Cooking Oil,Staples,8.0,150,1212.93,East,In-store,4
+2025-04-29,Tea,Beverages,1.0,180,196.89,East,Online,4
+2025-04-30,Apples,Fruits,4.0,120,482.22,East,Online,4
+2025-05-01,Tea,Beverages,4.0,180,738.63,East,Online,5
+2025-05-02,Apples,Fruits,6.0,120,748.19,West,Online,5
+2025-05-03,Milk,Dairy,5.0,30,148.64,West,In-store,5
+2025-05-04,Sugar,Staples,6.0,48,295.35,South,Online,5
+2025-05-05,Apples,Fruits,5.0,120,610.12,East,In-store,5
+2025-05-06,Tea,Beverages,6.0,180,1166.65,East,Online,5
+2025-05-07,Milk,Dairy,3.0,30,81.82,North,Online,5
+2025-05-08,Rice,Staples,4.0,65,248.61,West,Online,5
+2025-05-09,Eggs,Dairy,1.0,8,8.72,East,In-store,5
+2025-05-10,Eggs,Dairy,5.0,8,43.12,South,Online,5
+2025-05-11,Eggs,Dairy,8.0,8,63.43,South,In-store,5
+2025-05-12,Apples,Fruits,5.0,120,614.42,West,In-store,5
+2025-05-13,Rice,Staples,1.0,65,62.11,South,Online,5
+2025-05-14,Apples,Fruits,6.0,120,675.09,South,Online,5
+2025-05-15,Sugar,Staples,5.0,48,238.26,West,Online,5
+2025-05-16,Apples,Fruits,7.0,120,815.36,East,In-store,5
+2025-05-17,Rice,Staples,3.0,65,198.26,East,Online,5
+2025-05-18,Rice,Staples,4.0,65,238.04,South,In-store,5
+2025-05-19,Sugar,Staples,1.0,48,52.55,South,In-store,5
+2025-05-20,Rice,Staples,4.0,65,285.28,East,Online,5
+2025-05-21,Tea,Beverages,7.0,180,1309.94,West,Online,5
+2025-05-22,Rice,Staples,5.0,65,327.35,South,In-store,5
+2025-05-23,Eggs,Dairy,5.0,8,38.48,North,In-store,5
+2025-05-24,Tea,Beverages,8.0,180,1530.37,West,In-store,5
+2025-05-25,Tea,Beverages,7.0,180,1306.55,South,Online,5
+2025-05-26,Sugar,Staples,1.0,48,44.76,South,In-store,5
+2025-05-27,Bread,Bakery,8.0,40,346.3,North,Online,5
+2025-05-28,Bread,Bakery,3.0,40,127.74,North,In-store,5
+2025-05-29,Rice,Staples,8.0,65,566.78,East,In-store,5
+2025-05-30,Tea,Beverages,2.0,180,376.25,West,Online,5
+2025-05-31,Bread,Bakery,1.0,40,40.91,West,In-store,5
+2025-06-01,Bread,Bakery,2.0,40,78.69,East,Online,6
+2025-06-02,Rice,Staples,7.0,65,494.38,West,Online,6
+2025-06-03,Bread,Bakery,6.0,40,257.57,West,In-store,6
+2025-06-04,Apples,Fruits,2.0,120,218.17,West,Online,6
+2025-06-05,Milk,Dairy,3.0,30,81.47,West,Online,6
+2025-06-06,Sugar,Staples,8.0,48,374.51,West,In-store,6
+2025-06-07,Milk,Dairy,6.0,30,191.18,North,Online,6
+2025-06-08,Rice,Staples,8.0,65,570.68,West,Online,6
+2025-06-09,Eggs,Dairy,2.0,8,14.88,North,Online,6
+2025-06-10,Sugar,Staples,8.0,48,391.23,West,In-store,6
+2025-06-11,Rice,Staples,7.0,65,444.16,East,Online,6
+2025-06-12,Tea,Beverages,6.0,180,1181.5,South,In-store,6
+2025-06-13,Eggs,Dairy,7.0,8,59.83,North,In-store,6
+2025-06-14,Milk,Dairy,2.0,30,64.06,West,Online,6
+2025-06-15,Rice,Staples,7.0,65,452.15,East,Online,6
+2025-06-16,Tea,Beverages,3.0,180,530.8,South,Online,6
+2025-06-17,Sugar,Staples,2.0,48,91.65,North,In-store,6
+2025-06-18,Sugar,Staples,2.0,48,87.48,South,Online,6
+2025-06-19,Cooking Oil,Staples,2.0,150,321.88,East,Online,6
+2025-06-20,Tea,Beverages,1.0,180,191.26,North,Online,6
+2025-06-21,Apples,Fruits,8.0,120,1055.95,South,Online,6
+2025-06-22,Bread,Bakery,1.0,40,43.97,West,Online,6
+2025-06-23,Eggs,Dairy,1.0,8,8.09,North,In-store,6
+2025-06-24,Tea,Beverages,3.0,180,569.05,South,In-store,6
+2025-06-25,Cooking Oil,Staples,6.0,150,980.06,East,Online,6
+2025-06-26,Bread,Bakery,8.0,40,342.38,East,Online,6
+2025-06-27,Bread,Bakery,7.0,40,265.85,North,Online,6
+2025-06-28,Rice,Staples,5.0,65,321.79,South,Online,6
+2025-06-29,Bread,Bakery,2.0,40,74.07,North,In-store,6
+2025-06-30,Apples,Fruits,7.0,120,916.28,North,Online,6
+2025-07-01,Sugar,Staples,2.0,48,98.04,South,In-store,7
+2025-07-02,Cooking Oil,Staples,3.0,150,425.58,South,In-store,7
+2025-07-03,Bread,Bakery,2.0,40,82.75,West,Online,7
+2025-07-04,Rice,Staples,1.0,65,66.54,South,In-store,7
+2025-07-05,Apples,Fruits,8.0,120,932.77,East,In-store,7
+2025-07-06,Milk,Dairy,5.0,30,138.41,North,In-store,7
+2025-07-07,Sugar,Staples,4.0,48,198.59,North,In-store,7
+2025-07-08,Sugar,Staples,2.0,48,96.39,East,Online,7
+2025-07-09,Cooking Oil,Staples,7.0,150,1107.19,South,Online,7
+2025-07-10,Sugar,Staples,1.0,48,48.19,East,In-store,7
+2025-07-11,Bread,Bakery,4.0,40,171.27,East,Online,7
+2025-07-12,Rice,Staples,5.0,65,328.37,West,Online,7
+2025-07-13,Sugar,Staples,4.0,48,194.34,East,Online,7
+2025-07-14,Sugar,Staples,1.0,48,51.62,North,Online,7
+2025-07-15,Milk,Dairy,8.0,30,235.37,East,Online,7
+2025-07-16,Milk,Dairy,8.0,30,222.43,North,In-store,7
+2025-07-17,Eggs,Dairy,6.0,8,43.48,North,Online,7
+2025-07-18,Apples,Fruits,8.0,120,1008.99,North,Online,7
+2025-07-19,Bread,Bakery,6.0,40,245.77,South,Online,7
+2025-07-20,Sugar,Staples,4.0,48,199.84,West,Online,7
+2025-07-21,Tea,Beverages,3.0,180,509.0,North,In-store,7
+2025-07-22,Sugar,Staples,7.0,48,311.56,North,In-store,7
+2025-07-23,Rice,Staples,7.0,65,410.82,South,In-store,7
+2025-07-24,Eggs,Dairy,4.0,8,31.04,North,In-store,7
+2025-07-25,Apples,Fruits,2.0,120,244.32,East,Online,7
+2025-07-26,Tea,Beverages,2.0,180,352.24,East,In-store,7
+2025-07-27,Eggs,Dairy,8.0,8,63.2,West,Online,7
+2025-07-28,Cooking Oil,Staples,7.0,150,1134.87,North,Online,7
+2025-07-29,Apples,Fruits,7.0,120,814.51,South,Online,7
+2025-07-30,Sugar,Staples,6.0,48,288.81,East,Online,7
+2025-07-31,Sugar,Staples,3.0,48,152.17,South,Online,7
+2025-08-01,Apples,Fruits,1.0,120,117.52,South,In-store,8
+2025-08-02,Sugar,Staples,2.0,48,98.34,East,In-store,8
+2025-08-03,Bread,Bakery,7.0,40,300.29,South,In-store,8
+2025-08-04,Apples,Fruits,6.0,120,784.73,East,In-store,8
+2025-08-05,Eggs,Dairy,5.0,8,37.18,South,Online,8
+2025-08-06,Apples,Fruits,6.0,120,781.43,East,In-store,8
+2025-08-07,Tea,Beverages,2.0,180,359.43,North,Online,8
+2025-08-08,Sugar,Staples,2.0,48,91.36,West,In-store,8
+2025-08-09,Bread,Bakery,6.0,40,238.04,East,Online,8
+2025-08-10,Bread,Bakery,1.0,40,43.84,East,Online,8
+2025-08-11,Cooking Oil,Staples,4.0,150,599.11,West,In-store,8
+2025-08-12,Eggs,Dairy,2.0,8,15.45,East,Online,8
+2025-08-13,Milk,Dairy,6.0,30,184.8,East,Online,8
+2025-08-14,Milk,Dairy,7.0,30,199.09,South,In-store,8
+2025-08-15,Apples,Fruits,6.0,120,658.92,West,Online,8
+2025-08-16,Cooking Oil,Staples,3.0,150,416.6,North,In-store,8
+2025-08-17,Rice,Staples,4.0,65,240.66,East,In-store,8
+2025-08-18,Apples,Fruits,5.0,120,558.23,West,In-store,8
+2025-08-19,Cooking Oil,Staples,1.0,150,139.16,South,Online,8
+2025-08-20,Eggs,Dairy,8.0,8,65.8,North,Online,8
+2025-08-21,Eggs,Dairy,5.0,8,37.46,West,Online,8
+2025-08-22,Eggs,Dairy,4.0,8,31.01,North,In-store,8
+2025-08-23,Eggs,Dairy,4.0,8,34.54,North,Online,8
+2025-08-24,Eggs,Dairy,4.0,8,31.83,North,In-store,8
+2025-08-25,Cooking Oil,Staples,5.0,150,775.13,East,In-store,8
+2025-08-26,Cooking Oil,Staples,7.0,150,981.19,East,Online,8
+2025-08-27,Bread,Bakery,4.0,40,150.15,South,In-store,8
+2025-08-28,Tea,Beverages,6.0,180,980.83,South,Online,8
+2025-08-29,Milk,Dairy,5.0,30,140.07,West,Online,8
+2025-08-30,Sugar,Staples,8.0,48,367.0,South,Online,8
+2025-08-31,Eggs,Dairy,4.0,8,29.93,North,Online,8
+2025-09-01,Rice,Staples,6.0,65,357.92,North,Online,9
+2025-09-02,Sugar,Staples,7.0,48,310.51,East,In-store,9
+2025-09-03,Cooking Oil,Staples,3.0,150,446.47,North,In-store,9
+2025-09-04,Rice,Staples,7.0,65,428.28,West,In-store,9
+2025-09-05,Rice,Staples,8.0,65,505.88,North,Online,9
+2025-09-06,Rice,Staples,4.0,65,260.18,North,Online,9
+2025-09-07,Bread,Bakery,8.0,40,332.19,West,Online,9
+2025-09-08,Cooking Oil,Staples,5.0,150,680.9,South,In-store,9
+2025-09-09,Rice,Staples,2.0,65,137.78,South,Online,9
+2025-09-10,Eggs,Dairy,4.0,8,32.82,West,In-store,9
+2025-09-11,Apples,Fruits,2.0,120,219.92,East,In-store,9
+2025-09-12,Rice,Staples,6.0,65,419.14,North,Online,9
+2025-09-13,Bread,Bakery,3.0,40,130.1,West,Online,9
+2025-09-14,Sugar,Staples,1.0,48,43.79,North,In-store,9
+2025-09-15,Cooking Oil,Staples,8.0,150,1146.45,East,Online,9
+2025-09-16,Tea,Beverages,7.0,180,1337.16,North,In-store,9
+2025-09-17,Bread,Bakery,3.0,40,125.96,West,Online,9
+2025-09-18,Rice,Staples,4.0,65,243.6,North,Online,9
+2025-09-19,Cooking Oil,Staples,2.0,150,282.56,South,In-store,9
+2025-09-20,Apples,Fruits,7.0,120,818.24,East,Online,9
+2025-09-21,Rice,Staples,2.0,65,129.6,East,In-store,9
+2025-09-22,Bread,Bakery,5.0,40,204.73,East,Online,9
+2025-09-23,Milk,Dairy,2.0,30,58.43,West,In-store,9
+2025-09-24,Eggs,Dairy,5.0,8,39.7,East,In-store,9
+2025-09-25,Tea,Beverages,6.0,180,1133.45,South,Online,9
+2025-09-26,Sugar,Staples,7.0,48,304.87,West,In-store,9
+2025-09-27,Bread,Bakery,7.0,40,266.14,South,Online,9
+2025-09-28,Cooking Oil,Staples,1.0,150,156.4,North,Online,9
+2025-09-29,Tea,Beverages,4.0,180,776.91,North,Online,9
+2025-09-30,Tea,Beverages,5.0,180,902.1,North,In-store,9
+2025-10-01,Tea,Beverages,1.0,180,181.16,North,In-store,10
+2025-10-02,Rice,Staples,2.0,65,119.79,South,Online,10
+2025-10-03,Eggs,Dairy,2.0,8,15.83,West,Online,10
+2025-10-04,Rice,Staples,1.0,65,65.42,West,In-store,10
+2025-10-05,Cooking Oil,Staples,7.0,150,995.92,East,Online,10
+2025-10-06,Rice,Staples,2.0,65,124.0,South,Online,10
+2025-10-07,Milk,Dairy,8.0,30,234.11,North,In-store,10
+2025-10-08,Eggs,Dairy,6.0,8,43.39,South,Online,10
+2025-10-09,Eggs,Dairy,6.0,8,46.29,East,In-store,10
+2025-10-10,Cooking Oil,Staples,8.0,150,1130.75,East,Online,10
+2025-10-11,Sugar,Staples,1.0,48,46.34,South,In-store,10
+2025-10-12,Milk,Dairy,8.0,30,221.75,South,Online,10
+2025-10-13,Bread,Bakery,5.0,40,215.62,South,Online,10
+2025-10-14,Rice,Staples,5.0,65,331.08,West,In-store,10
+2025-10-15,Apples,Fruits,1.0,120,124.3,North,Online,10
+2025-10-16,Rice,Staples,8.0,65,550.07,South,In-store,10
+2025-10-17,Tea,Beverages,5.0,180,899.72,South,Online,10
+2025-10-18,Rice,Staples,7.0,65,417.41,South,In-store,10
+2025-10-19,Bread,Bakery,8.0,40,322.37,East,In-store,10
+2025-10-20,Rice,Staples,7.0,65,462.9,East,In-store,10
+2025-10-21,Milk,Dairy,5.0,30,157.36,West,In-store,10
+2025-10-22,Milk,Dairy,6.0,30,177.54,North,Online,10
+2025-10-23,Eggs,Dairy,5.0,8,37.02,West,Online,10
+2025-10-24,Cooking Oil,Staples,7.0,150,1004.59,North,In-store,10
+2025-10-25,Sugar,Staples,3.0,48,140.06,East,In-store,10
+2025-10-26,Apples,Fruits,4.0,120,494.01,East,In-store,10
+2025-10-27,Tea,Beverages,2.0,180,365.1,East,Online,10
+2025-10-28,Rice,Staples,8.0,65,505.03,West,Online,10
+2025-10-29,Rice,Staples,3.0,65,213.97,South,Online,10
+2025-10-30,Bread,Bakery,5.0,40,204.23,South,Online,10
+2025-10-31,Cooking Oil,Staples,6.0,150,852.7,East,In-store,10
+2025-11-01,Milk,Dairy,1.0,30,27.61,South,In-store,11
+2025-11-02,Apples,Fruits,5.0,120,558.34,South,In-store,11
+2025-11-03,Eggs,Dairy,6.0,8,45.56,West,Online,11
+2025-11-04,Milk,Dairy,4.0,30,111.86,North,Online,11
+2025-11-05,Tea,Beverages,5.0,180,843.58,East,Online,11
+2025-11-06,Cooking Oil,Staples,7.0,150,1004.87,East,In-store,11
+2025-11-07,Tea,Beverages,1.0,180,168.24,West,In-store,11
+2025-11-08,Sugar,Staples,6.0,48,310.85,West,Online,11
+2025-11-09,Eggs,Dairy,6.0,8,43.97,South,In-store,11
+2025-11-10,Sugar,Staples,6.0,48,289.41,East,Online,11
+2025-11-11,Bread,Bakery,4.0,40,157.13,North,Online,11
+2025-11-12,Tea,Beverages,5.0,180,986.83,West,In-store,11
+2025-11-13,Bread,Bakery,4.0,40,147.59,North,Online,11
+2025-11-14,Rice,Staples,8.0,65,509.38,North,In-store,11
+2025-11-15,Sugar,Staples,2.0,48,105.01,East,Online,11
+2025-11-16,Cooking Oil,Staples,2.0,150,321.93,East,In-store,11
+2025-11-17,Tea,Beverages,8.0,180,1531.32,West,In-store,11
+2025-11-18,Apples,Fruits,5.0,120,570.95,East,In-store,11
+2025-11-19,Eggs,Dairy,7.0,8,52.31,East,Online,11
+2025-11-20,Milk,Dairy,4.0,30,124.05,East,Online,11
+2025-11-21,Cooking Oil,Staples,1.0,150,162.88,North,In-store,11
+2025-11-22,Cooking Oil,Staples,6.0,150,910.22,West,In-store,11
+2025-11-23,Bread,Bakery,6.0,40,243.44,South,Online,11
+2025-11-24,Sugar,Staples,5.0,48,229.44,North,Online,11
+2025-11-25,Tea,Beverages,7.0,180,1327.91,East,Online,11
+2025-11-26,Tea,Beverages,2.0,180,337.47,North,In-store,11
+2025-11-27,Rice,Staples,2.0,65,125.42,East,Online,11
+2025-11-28,Rice,Staples,6.0,65,384.18,East,Online,11
+2025-11-29,Eggs,Dairy,5.0,8,40.06,North,In-store,11
+2025-11-30,Bread,Bakery,4.0,40,151.76,West,Online,11
+2025-12-01,Cooking Oil,Staples,2.0,150,276.89,East,Online,12
+2025-12-02,Tea,Beverages,4.0,180,735.93,West,Online,12
+2025-12-03,Apples,Fruits,7.0,120,804.49,South,In-store,12
+2025-12-04,Bread,Bakery,2.0,40,81.3,East,In-store,12
+2025-12-05,Eggs,Dairy,2.0,8,14.89,West,In-store,12
+2025-12-06,Eggs,Dairy,3.0,8,23.91,West,In-store,12
+2025-12-07,Bread,Bakery,2.0,40,80.52,South,In-store,12
+2025-12-08,Eggs,Dairy,8.0,8,58.26,West,In-store,12
+2025-12-09,Bread,Bakery,1.0,40,38.69,West,In-store,12
+2025-12-10,Milk,Dairy,8.0,30,222.45,South,Online,12
+2025-12-11,Bread,Bakery,5.0,40,182.53,East,Online,12
+2025-12-12,Sugar,Staples,5.0,48,263.52,West,In-store,12
+2025-12-13,Bread,Bakery,4.0,40,154.32,West,Online,12
+2025-12-14,Eggs,Dairy,8.0,8,67.97,West,Online,12
+2025-12-15,Tea,Beverages,8.0,180,1369.34,North,In-store,12
+2025-12-16,Sugar,Staples,8.0,48,397.94,South,Online,12
+2025-12-17,Eggs,Dairy,7.0,8,58.91,North,Online,12
+2025-12-18,Rice,Staples,2.0,65,132.49,South,Online,12
+2025-12-19,Rice,Staples,1.0,65,64.63,East,Online,12
+2025-12-20,Tea,Beverages,4.0,180,707.31,East,Online,12
+2025-12-21,Tea,Beverages,8.0,180,1396.47,West,In-store,12
+2025-12-22,Sugar,Staples,8.0,48,416.99,South,In-store,12
+2025-12-23,Milk,Dairy,3.0,30,95.95,East,In-store,12
+2025-12-24,Tea,Beverages,4.0,180,786.96,South,Online,12
+2025-12-25,Rice,Staples,8.0,65,480.93,East,In-store,12
+2025-12-26,Bread,Bakery,4.0,40,167.39,North,Online,12
